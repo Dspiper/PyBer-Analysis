@@ -1,4 +1,4 @@
-# PyBer_Analysis
+# PyBer Analysis
 
 ## Overview: 
 The purpose of this analysis is to create a summary DataFrame of the ride-sharing data by city type for PyBer (a python-based ride-sharing app company). Then, create a multi-line graph to showcase the relationship between the total weekly fares for each city type to help PyBer improve access to ride-sharing services and determine affordability. 
